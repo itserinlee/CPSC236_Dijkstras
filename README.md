@@ -1,7 +1,7 @@
 # CPSC236 Final Project: Dijkstra's Algorithm in Unity
 *Fall 2020 CPSC-236-01 Visual Programming*
 
-**Project Name: "Path-Finding Panther"***
+**Project Name: "Path-Finding Panther"**
 
 ***Collaborator: Rob Farmer***
 
