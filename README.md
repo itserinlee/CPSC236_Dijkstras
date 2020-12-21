@@ -21,11 +21,11 @@
 - N/A
 
 ## References
-- Panther icon (free image):
+- panther image:
 	- https://www.flaticon.com/search?word=panther
-- Node network icon (free image):
+- node network image:
 	- https://www.flaticon.com/search?word=algorithm
-- Orange icon (free image):
+- orange image:
 	- https://www.flaticon.com/search?word=orange
   
 ## Instructions
