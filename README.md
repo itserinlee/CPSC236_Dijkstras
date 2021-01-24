@@ -4,7 +4,7 @@
 
 ***Collaborator: Rob Farmer***
 
-## Project Name: "Path-Finding Panther"
+### Project Name: "Path-Finding Panther"
 
 <img width="895" alt="game_won" src="https://user-images.githubusercontent.com/69367085/105626140-e3c0fd80-5de2-11eb-90e4-f13e4c9e0488.png">
 
