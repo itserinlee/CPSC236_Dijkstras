@@ -40,6 +40,3 @@
 
 <img width="663" alt="main" src="https://user-images.githubusercontent.com/69367085/105626145-eb80a200-5de2-11eb-8871-edd91b90df19.png">
 
-*Gameplay*
-
-<img width="898" alt="playtest" src="https://user-images.githubusercontent.com/69367085/105626133-ddcb1c80-5de2-11eb-990c-064aed047295.png">
