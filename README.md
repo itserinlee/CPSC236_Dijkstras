@@ -18,11 +18,6 @@
 - Main.cs
 - Node.cs
 - NodeButton.cs
-
-## References
-###### [panther image](https://www.flaticon.com/search?word=panther)
-###### [node network image](https://www.flaticon.com/search?word=algorithm)
-###### [orange image](https://www.flaticon.com/search?word=orange)
   
 ## Instructions
 - Download & run "PathFindingPanther.exe" executable file (for Windows).
@@ -36,4 +31,10 @@
 *Main Menu*
 
 <img width="663" alt="main" src="https://user-images.githubusercontent.com/69367085/105626145-eb80a200-5de2-11eb-8871-edd91b90df19.png">
+
+
+## References
+###### [panther image](https://www.flaticon.com/search?word=panther)
+###### [node network image](https://www.flaticon.com/search?word=algorithm)
+###### [orange image](https://www.flaticon.com/search?word=orange)
 
