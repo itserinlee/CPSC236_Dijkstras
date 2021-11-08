@@ -19,13 +19,10 @@
 - Node.cs
 - NodeButton.cs
 
-## Known Errors
-- N/A
-
 ## References
-###### panther image: https://www.flaticon.com/search?word=panther
-###### node network image: https://www.flaticon.com/search?word=algorithm
-###### orange image: https://www.flaticon.com/search?word=orange
+###### [panther image](https://www.flaticon.com/search?word=panther)
+###### [node network image](https://www.flaticon.com/search?word=algorithm)
+###### [orange image](https://www.flaticon.com/search?word=orange)
   
 ## Instructions
 - Download & run "PathFindingPanther.exe" executable file (for Windows).
