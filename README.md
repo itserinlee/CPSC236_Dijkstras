@@ -1,5 +1,5 @@
-# CPSC 236 Final Project: Dijkstra's Algorithm in Unity
-*Fall 2020 CPSC-236-01 Visual Programming*
+# Dijkstra's Algorithm in Unity
+*Visual Programming - CPSC-236-01, Fall 2020*
 
 ###### Project Name: "Path-Finding Panther"
 
